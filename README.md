@@ -3,11 +3,6 @@ According to spring.io website:
 
 Spring Data for MongoDB is part of the umbrella Spring Data project which aims to provide a familiar and consistent Spring-based programming model for new datastores while retaining store-specific features and capabilities.
 
-spring.io website
-Link to Source code
-You can download the source code from Github: https://github.com/SaiUpadhyayula/spring-boot-mongodb-tutorial
-
-If you are a visual learner like me, you can check out the video version of this tutorial
 
 
 # Bootstrapping the Project
