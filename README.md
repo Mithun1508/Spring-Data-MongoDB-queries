@@ -11,6 +11,22 @@ Now let’s go ahead and bootstrap the project we are going to use in this tutor
 
 You can download the starter project with all the needed dependencies at Spring Initializr website.
 
+# What You Need
+
+
+A favorite text editor or IDE
+
+Java 17 or later
+
+Gradle 7.5+ or Maven 3.5+
+
+You can also import the code straight into your IDE:
+
+Spring Tool Suite (STS)
+
+IntelliJ IDEA
+
+VSCode
 
 # In the Spring Initializr home page, select the following options:
 
