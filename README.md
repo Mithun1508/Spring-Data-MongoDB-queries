@@ -3,6 +3,7 @@ According to spring.io website:
 
 Spring Data for MongoDB is part of the umbrella Spring Data project which aims to provide a familiar and consistent Spring-based programming model for new datastores while retaining store-specific features and capabilities.
 
+![D_h4u_5U0AAv6km](https://user-images.githubusercontent.com/93249038/215417642-2162ae5c-6450-4f5f-92d5-2ff4eb8adb79.png)
 
 
 # Bootstrapping the Project
