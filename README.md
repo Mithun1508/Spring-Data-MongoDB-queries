@@ -268,5 +268,7 @@ NOTE: Make sure to use the same MongoDB configuration inside the @DynamicPropery
 Ex: Don’t provide the spring.data.mongo.uri property inside Tests and spring.data.mongo.host, spring.data.mongo.port and spring.data.mongo.database inside application.properties file.
 
 You can observe that using TestContainers, we can also test whether the Mongock migrations are also running successfully or not.
+ 
+ ![Screenshot (100)](https://user-images.githubusercontent.com/93249038/215419579-959f704c-55d1-4444-94c1-caae52b07767.png)
 
 
